@@ -1,2 +1,4 @@
 # LeetCodeJournal
-Track and document my coding journey through LeetCode challenges, one solution at a time.
+Track and document my coding journey through LeetCode challenges.
+<br>
+one solution at a time.
